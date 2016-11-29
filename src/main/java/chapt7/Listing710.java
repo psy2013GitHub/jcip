@@ -25,9 +25,9 @@ public class Listing710 {
                 if (this.ever_interrupted)
                     Thread.currentThread().interrupt();
             }
-            if (this.throwable != null) {
-                throw this.throwable; // fixme
-            }
+//            if (this.throwable != null) {
+//                throw this.throwable; // fixme
+//            }
         }
     }
 
